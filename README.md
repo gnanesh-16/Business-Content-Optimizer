@@ -4,7 +4,8 @@
 
 The Business Content Optimizer is a sophisticated full-stack web application designed to revolutionize how organizations analyze and improve their technical documentation. Using advanced LLM (Large Language Model) technology, the system crawls business websites, extracts documentation content, and provides comprehensive analysis across four critical dimensions: readability, structure, completeness, and style conformity. The platform generates actionable insights that enable content teams to refine their documentation for clarity, coherence, and effectiveness, particularly for non-technical stakeholders.
 
-![Architecture Diagram](architecture.png)
+![image](https://github.com/user-attachments/assets/3f380867-12c6-4fce-b3ab-3341e168e5c1)
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)

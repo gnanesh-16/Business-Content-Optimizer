@@ -1,8 +1,20 @@
-# Business Content Optimizer
+<h1 align="center">🚀 Business Content Optimizer</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License Badge" />
+  <img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status" />
+  <img src="https://img.shields.io/badge/PRs-welcome-blueviolet.svg" alt="PRs Welcome" />
+  <img src="https://img.shields.io/badge/Powered%20by-LLMs-ff69b4.svg" alt="Powered by LLMs" />
+</p>
+<p align="center">
+  <em>Transforming technical documentation for clarity, coherence, and impact.</em>
+</p>
 
-## Executive Summary
+---
 
-The Business Content Optimizer is a sophisticated full-stack web application designed to revolutionize how organizations analyze and improve their technical documentation. Using advanced LLM (Large Language Model) technology, the system crawls business websites, extracts documentation content, and provides comprehensive analysis across four critical dimensions: readability, structure, completeness, and style conformity. The platform generates actionable insights that enable content teams to refine their documentation for clarity, coherence, and effectiveness, particularly for non-technical stakeholders.
+## 🌟 Executive Summary
+
+**Business Content Optimizer** is a cutting-edge full-stack web application built to revolutionize how organizations analyze and elevate their technical documentation. Leveraging state-of-the-art Large Language Model (LLM) technology, this platform automatically crawls business websites, extracts documentation, and provides actionable, AI-driven insights.
+
 
 ![image](https://github.com/user-attachments/assets/3f380867-12c6-4fce-b3ab-3341e168e5c1)
 

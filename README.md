@@ -154,6 +154,16 @@ The Business Content Optimizer delivers significant value across several dimensi
 - Predictive analytics for content performance
 - Multi-language support for global documentation
 
+## Steps to Run and Get Your Business Done by Moengage
+
+**Step 1:** `git clone https://github.com/gnanesh-16/Business-Content-Optimizer.git`
+
+**Step 2:** `cd Business-Content-Optimizer/AGENT_1/AGENT_1`
+
+**Step 3:** Get your API key and rename `.env.example` to `.env`. Paste your API key into the `.env` file:
+
+
+
 ## Conclusion
 
 The Business Content Optimizer represents a significant advancement in leveraging AI for documentation quality improvement. By combining advanced content extraction techniques with sophisticated LLM analysis, the system provides unprecedented insight into documentation effectiveness. Organizations using this tool can substantially improve their technical communication, making complex information more accessible to all stakeholders while maintaining rigorous quality standards.

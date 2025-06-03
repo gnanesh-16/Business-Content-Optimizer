@@ -4,7 +4,7 @@ pandas==2.0.3
 requests==2.31.0
 textstat==0.7.3
 chromadb==0.4.22
-crawl4ai==0.4.2
+crawl4ai
 pydantic==2.5.0
 httpx==0.25.0
 nest-asyncio==1.5.8

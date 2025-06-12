@@ -169,4 +169,4 @@ The Business Content Optimizer delivers significant value across several dimensi
 The Business Content Optimizer represents a significant advancement in leveraging AI for documentation quality improvement. By combining advanced content extraction techniques with sophisticated LLM analysis, the system provides unprecedented insight into documentation effectiveness. Organizations using this tool can substantially improve their technical communication, making complex information more accessible to all stakeholders while maintaining rigorous quality standards.
 
 ---
-*This project was developed as a collaboration with Moengage "Assingment" to explore practical applications of large language models in business content optimization.
+*This project was developed to explore practical applications of large language models in business content optimization.
